@@ -20,6 +20,11 @@ h2 {
   font-size: 2rem;
 }
 
+.logo {
+    width: 5rem;
+    height: auto;
+}
+
 header > img {
   display: block;
   margin-left: auto;
